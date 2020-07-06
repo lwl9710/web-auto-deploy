@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    自动部署测试程序
+    自动部署测试程序---<span style="color: red;">main</span>
   </div>
 </template>
 
